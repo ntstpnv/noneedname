@@ -1,2 +1,2 @@
-print('Ola-la')
+print("Ola-la")
 # ny i ny
